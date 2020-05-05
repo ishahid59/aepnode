@@ -1,0 +1,13 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+# .env file is added to include Secret key for jwt token
+# *.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
